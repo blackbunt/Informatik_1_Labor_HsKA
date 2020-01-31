@@ -4,7 +4,7 @@ Abgabe Informatik 1 Labor
 0.5Hz Blinken
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      11.01.2020
 
 Blinkfrequenz sind 0.5Hz
