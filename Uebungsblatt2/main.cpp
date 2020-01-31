@@ -3,7 +3,7 @@ main.cpp
 Abgabe Informatik 1 Labor
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      28.12.2019
 
 Quadratische Gleichung [x^2 + px + q = 0] loesen.
