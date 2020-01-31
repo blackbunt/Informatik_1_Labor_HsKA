@@ -3,7 +3,7 @@ main.cpp
 Abgabe Informatik 1 Labor
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      18.12.2019
 
 Nach User Eingabe berechnet MW-SwitchCase Mittelwerte der gegebenen Reihe.
@@ -20,7 +20,7 @@ Harmonischer Mittelwert:        23,09270866
 */
 
 #include <iostream>
-#include <cmath>                                            // Bibiliotek für Mathematische Funktionen
+#include <cmath>                                            // Bibiliotek fÃ¼r Mathematische Funktionen
 using namespace std;
 
 
@@ -58,7 +58,7 @@ int main() {
             break;
 
         case 1: // Arithmetischer MW
-            for (i = 0; i <= 31; i++) {                              // von Anfangswert bis Endwert addiere jeweils 1; läuft bis 31
+            for (i = 0; i <= 31; i++) {                              // von Anfangswert bis Endwert addiere jeweils 1; lÃ¤uft bis 31
                 Summe += i * 3;                                      // Werte von 0 * 3 bis 31 * 3 werden Aufsummiert
             }
 
@@ -80,7 +80,7 @@ int main() {
                 Summe += 1.0 / (i * 3.0);                           // Werte von 1 / (1 * 3) bis 1 / (31 * 3) werden aufsummiert
             }
             HamMW = 31.0 / Summe;                                   // i / Summe
-            cout << "Der Harmonische Mittelwert beträgt: " << HamMW << "." << endl;
+            cout << "Der Harmonische Mittelwert betrÃ¤gt: " << HamMW << "." << endl;
             break;
 
         default: // Default: Falsche Eingaben abfangen
