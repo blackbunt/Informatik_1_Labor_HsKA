@@ -4,7 +4,7 @@ Abgabe Informatik 1 Labor
 08_MultiPlex_XX
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      12.91.2020
 
 */
