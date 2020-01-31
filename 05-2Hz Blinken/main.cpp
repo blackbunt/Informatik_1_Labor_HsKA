@@ -4,7 +4,7 @@ Abgabe Informatik 1 Labor
 2Hz Blinken
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      28.12.2019
 
 Alle n Millisekunden eine Leuchte fuer 10 Sekunden Ein- und Ausschalten
