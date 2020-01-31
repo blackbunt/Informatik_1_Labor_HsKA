@@ -4,7 +4,7 @@ Abgabe Informatik 1 Labor
 MWFunktionen
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      29.12.2019
 
 MWFunktionen erfragt den/die User*in welcher Mittelwert der gegebenen Reihe berechnet werden soll.
