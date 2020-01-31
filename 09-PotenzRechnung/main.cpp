@@ -5,7 +5,7 @@ Abgabe Informatik 1 Labor
 Potenzrechnung itterativ und rekursiv
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      21.01.2020
  */
 
