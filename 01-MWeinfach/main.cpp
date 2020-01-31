@@ -3,7 +3,7 @@ main.cpp
 Abgabe Informatik 1 Labor
 
 Name        Bernhard Kauffmann [kabe1017@hs-karlsruhe.de]
-Matr.Nr.:   64681
+
 Datum:      08.10.2019
 
 MWeinfach berechnet den Mittelwert einer vorgegebenen theoretischen Messreihe
